@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+pika
+mysql-connector-python
+cryptography
