@@ -34,7 +34,7 @@ A robust, production-ready microservice built with **FastAPI**, **SQLAlchemy**, 
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/KrishnaTulasiSatti/Order-Processing-Microservice.git
     cd Order-Processing-Microservice
     ```
 
